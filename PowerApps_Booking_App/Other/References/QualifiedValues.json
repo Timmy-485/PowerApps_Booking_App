@@ -1,6 +1,20 @@
 {
   "QualifiedValues": [
     {
+      "Kind": "default.cds_cr6ca_newtable1_forms",
+      "Namespace": "Bookings (Forms)",
+      "Values": {
+        "Information": "7ac08ce5-4c3e-4285-909d-acba86078155"
+      }
+    },
+    {
+      "Kind": "default.cds_cr6ca_objecttorent_forms",
+      "Namespace": "Objects to rent (Forms)",
+      "Values": {
+        "Information": "777e08a7-6e11-4051-b57e-bc8a1f21de92"
+      }
+    },
+    {
       "Kind": "default.cds_cr6ca_newtable_forms",
       "Namespace": "People (Forms)",
       "Values": {
@@ -16,20 +30,6 @@
         "User": "c2cd9e55-d4b4-4b55-9951-16ead79643e5",
         "User form – Business": "c2413504-7eb2-4c59-a087-95d819866114",
         "User Hierarchy Tile Form": "c68d6c09-d7a7-4959-8d0f-44b8cff9b452"
-      }
-    },
-    {
-      "Kind": "default.cds_cr6ca_newtable1_forms",
-      "Namespace": "Bookings (Forms)",
-      "Values": {
-        "Information": "7ac08ce5-4c3e-4285-909d-acba86078155"
-      }
-    },
-    {
-      "Kind": "default.cds_cr6ca_objecttorent_forms",
-      "Namespace": "Objects to rent (Forms)",
-      "Values": {
-        "Information": "777e08a7-6e11-4051-b57e-bc8a1f21de92"
       }
     }
   ]

@@ -99,18 +99,10 @@
                     ZIndex: =6
 
                 Button1 As Button:
-                    BorderColor: =
-                    BorderRadius: =10
-                    DisabledBorderColor: =
-                    DisabledFillColor: =
-                    DisabledTextColor: =
+                    BasePaletteColor: =
                     DisplayMode: =DisplayMode.Edit
-                    FillColor: =
+                    FontColor: =
                     Height: =36
-                    HoverBorderColor: =
-                    HoverFillColor: =
-                    HoverTextColor: =
-                    OnChange: =false
                     OnSelect: |
                         =// Perform the lookup once and store the entire record
                         Set(
@@ -142,11 +134,7 @@
                                 Navigate(bookerLandingPage)
                             )
                         );
-                    PressedBorderColor: =
-                    PressedFillColor: =
-                    PressedTextColor: =
                     Text: ="Sign in"
-                    TextColor: =
                     Width: =308
                     X: =0
                     Y: =459
