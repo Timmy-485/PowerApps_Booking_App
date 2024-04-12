@@ -212,7 +212,7 @@
     "Name": "PowerAppsOneGrid",
     "OverridableProperties": {},
     "TemplateDisplayName": "Table",
-    "Version": "1.0.177"
+    "Version": "1.0.182"
   },
   "Text": {
     "CustomGroupControlTemplateName": "",
@@ -227,7 +227,7 @@
     "Name": "PowerApps_CoreControls_TextCanvas",
     "OverridableProperties": {},
     "TemplateDisplayName": "Text",
-    "Version": "0.0.24"
+    "Version": "0.0.25"
   },
   "Text box": {
     "CustomGroupControlTemplateName": "",
